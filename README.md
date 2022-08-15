@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,soy Raúl Rosales</h1>
-<h3 align="center">Constructor</h3>
+<h3 align="center">Profesor y Constructor</h3>
 
 - 🔭 Docente de Artes Visuales y Tecnología **Colegio Maria Griselda Valle**
 
